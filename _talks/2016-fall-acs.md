@@ -3,8 +3,8 @@ title: "Towards 3-D snapshot volumetric imaging: Novel methods of microscopy and
 collection: talks
 type: "Talk"
 permalink: /talks/2016-fall-acs
-venue: "Fall 2016 National Meeting of the American Chemical Society"
-date: 2012-03-01
+venue: "252nd National Meeting of the American Chemical Society"
+date: 2016-08-25
 location: "Philadelphia, PA"
 ---
 
