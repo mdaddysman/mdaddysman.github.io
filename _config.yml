@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Matthew K. Daddysman"
   avatar           : "profile.png"
-  bio              : "Biophysicist | Postdoc at the Institute for Biophysical Dynamics"
+  bio              : "Biophysicist | Interested in live cell microscopy and image analysis | Programmer Matlab, R, C, C++, Labview | Postdoc at the Institute for Biophysical Dynamics"
   location         : "Chicago, IL"
   employer         : "University of Chicago"
   googlescholar    : "https://scholar.google.com/citations?user=rWOdLRYAAAAJ"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
