@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2013-spring-acs
 venue: "245th National Meeting of the American Chemical Society"
-date: 2016-04-01
+date: 2013-04-01
 location: "New Orleans, LA"
 ---
 
