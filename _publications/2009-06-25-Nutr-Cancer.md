@@ -6,7 +6,7 @@ excerpt: 'The antiangiogenesis potential of kaempferol and its underlying mechan
 date: 2009-06-25
 venue: 'Nutrition and Cancer'
 paperurl: 'https://dx.doi.org/10.1080/01635580802666281'
-citation: 'Luo H, Rankin GO, Liu L, Daddysman MK, Jiang BH and Chen YC (2009) “Kaempferol inhibits angiogenesis and VEGF expression through both HIF dependent and independent pathways in human ovarian cancer cells”, <i>Nutr Cancer</i>, 61:4, 554 – 563.'
+citation: 'Luo H, Rankin GO, Liu L, Daddysman MK, Jiang BH and Chen YC (2009) &quot;Kaempferol inhibits angiogenesis and VEGF expression through both HIF dependent and independent pathways in human ovarian cancer cells&quot;, <i>Nutr Cancer</i>, 61:4, 554 – 563.'
 ---
 
 ## Abstract
