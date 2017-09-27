@@ -1,12 +1,12 @@
 ---
-title: "Kaempferol enhances cisplatin's effect on ovarian cancer cells through promoting apoptosis caused by down regulation of cMyc"
+title: "Kaempferol enhances cisplatin&apos;s effect on ovarian cancer cells through promoting apoptosis caused by down regulation of cMyc"
 collection: publications
 permalink: /publication/2010-05-11-Cancer-Cell-Int
 excerpt: 'Kaempferol enhances the effect of cisplatin through down regulation of cMyc in promoting apoptosis of ovarian cancer cells. As a dietary component, kaempferol sensitizes ovarian cancer cells to cisplatin treatment and deserves further studies for possible applications in chemotherapy of ovarian cancers.'
 date: 2010-05-11
 venue: 'Cancer Cell International'
 paperurl: 'https://dx.doi.org/10.1186/1475-2867-10-16'
-citation: 'Luo H, Daddysman MK, Rankin GO, Jiang BH and Chen YC (2010) &quot;Kaempferol enhances cisplatin's effect on ovarian cancer cells through promoting apoptosis caused by down regulation of cMyc&quot;, <i>Cancer Cell Int</i>, 10:16.'
+citation: 'Luo H, Daddysman MK, Rankin GO, Jiang BH and Chen YC (2010) &quot;Kaempferol enhances cisplatin&apos;s effect on ovarian cancer cells through promoting apoptosis caused by down regulation of cMyc&quot;, <i>Cancer Cell Int</i>, 10:16.'
 ---
 
 Abstract

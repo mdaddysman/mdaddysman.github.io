@@ -1,0 +1,19 @@
+---
+title: "Correlative imaging across microscopy platforms using the fast and accurate relocation of microscopic experimental regions (FARMER) method"
+collection: publications
+permalink: /publication/2017-05-15-Rev-Sci-Instrum
+excerpt: 'Imaging specific regions of interest (ROIs) of nanomaterials or biological samples with different imaging modalities (e.g., light and electron microscopy) or at subsequent time points (e.g., before and after off-microscope procedures) requires relocating the ROIs. Unfortunately, relocation is typically difficult and very time consuming to achieve. We report the Fast and Accurate Relocation of Microscopic Experimental Regions (FARMER) method, which only requires determining the coordinates of 3 (or more) conspicuous reference points (REFs) and employs an algorithm based on geometric operators to relocate ROIs in subsequent imaging sessions.'
+date: 2017-05-15
+venue: 'Review of Scientific Instruments'
+paperurl: 'https://dx.doi.org/10.1063/1.4982818'
+citation: 'Huynh T, Daddysman MK, Bao Y, Selewa A, Kuznetsov A, Philipson LH and Scherer NF (2017) &quot;Correlative imaging across microscopy platforms using the fast and accurate relocation of microscopic experimental regions (FARMER) method&quot;, <i>Rev Sci Instrum</i>, 88(5):053702.'
+---
+
+## Abstract
+Imaging specific regions of interest (ROIs) of nanomaterials or biological samples with different imaging modalities (e.g., light and electron microscopy) or at subsequent time points (e.g., before and after off-microscope procedures) requires relocating the ROIs. Unfortunately, relocation is typically difficult and very time consuming to achieve. Previously developed techniques involve the fabrication of arrays of features, the procedures for which are complex, and the added features can interfere with imaging the ROIs. We report the Fast and Accurate Relocation of Microscopic Experimental Regions (FARMER) method, which only requires determining the coordinates of 3 (or more) conspicuous reference points (REFs) and employs an algorithm based on geometric operators to relocate ROIs in subsequent imaging sessions. The 3 REFs can be quickly added to various regions of a sample using simple tools (e.g., permanent markers or conductive pens) and do not interfere with the ROIs. The coordinates of the REFs and the ROIs are obtained in the first imaging session (on a particular microscope platform) using an accurate and precise encoded motorized stage. In subsequent imaging sessions, the FARMER algorithm finds the new coordinates of the ROIs (on the same or different platforms), using the coordinates of the manually located REFs and the previously recorded coordinates. FARMER is convenient, fast (3–15 min/session, at least 10-fold faster than manual searches), accurate (4.4 μm average error on a microscope with a 100x objective), and precise (almost all errors are <8 μm), even with deliberate rotating and tilting of the sample well beyond normal repositioning accuracy. We demonstrate this versatility by imaging and re-imaging a diverse set of samples and imaging methods: live mammalian cells at different time points; fixed bacterial cells on two microscopes with different imaging modalities; and nanostructures on optical and electron microscopes. FARMER can be readily adapted to any imaging system with an encoded motorized stage and can facilitate multi-session and multi-platform imaging experiments in biology, materials science, photonics, and nanoscience.
+
+## Link
+doi: [10.1063/1.4982818](https://dx.doi.org/10.1063/1.4982818)    
+
+Recommended citation: Huynh T\*, Daddysman MK\*, Bao Y, Selewa A, Kuznetsov A, Philipson LH and Scherer NF (2017) "Correlative imaging across microscopy platforms using the fast and accurate relocation of microscopic experimental regions (FARMER) method", <i>Rev Sci Instrum</i>, 88(5):053702.
+\*Equal contribution

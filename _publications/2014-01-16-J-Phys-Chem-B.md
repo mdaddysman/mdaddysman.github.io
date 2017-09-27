@@ -2,7 +2,7 @@
 title: "RNA Polymerase II Subunits Exhibit a Broad Distribution of Macromolecular Assembly States in the Interchromatin Space of Cell Nuclei"
 collection: publications
 permalink: /publication/2014-01-16-J-Phys-Chem-B
-excerpt: 'We address this deficiency by investigating the diffusion dynamics of two RNA polymerase II subunits, <i>Rpb3</i> and <i>Rpb9</i>, in regions of live Drosophila cell nuclei that are devoid of chromatin binding sites. Using FRAP microscopy, we demonstrate that both unengaged subunits are incorporated into a broad distribution of complexes, with sizes ranging from free (unincorporated) proteins to those that have been predicted for fully assembled gene transcription units.'
+excerpt: 'We investigate the diffusion dynamics of two RNA polymerase II subunits, <i>Rpb3</i> and <i>Rpb9</i>, in regions of live Drosophila cell nuclei that are devoid of chromatin binding sites. Using FRAP microscopy, we demonstrate that both unengaged subunits are incorporated into a broad distribution of complexes, with sizes ranging from free (unincorporated) proteins to those that have been predicted for fully assembled gene transcription units.'
 date: 2014-01-16
 venue: 'Journal of Physical Chemistry B'
 paperurl: 'https://dx.doi.org/10.1021/jp4082933'
