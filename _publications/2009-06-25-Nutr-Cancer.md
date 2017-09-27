@@ -15,4 +15,4 @@ Ovarian cancer is 1 of the most significant malignancies in the Western world, a
 ## Link
 doi: [10.1080/01635580802666281](https://dx.doi.org/10.1080/01635580802666281)
 
-Recommended citation: Luo H, Rankin GO, Liu L, Daddysman MK, Jiang BH and Chen YC (2009) “Kaempferol inhibits angiogenesis and VEGF expression through both HIF dependent and independent pathways in human ovarian cancer cells”, <i>Nutr Cancer</i>, 61:4, 554 – 563.
+Recommended citation: Luo H, Rankin GO, Liu L, Daddysman MK, Jiang BH and Chen YC (2009) "Kaempferol inhibits angiogenesis and VEGF expression through both HIF dependent and independent pathways in human ovarian cancer cells", <i>Nutr Cancer</i>, 61:4, 554 – 563.
