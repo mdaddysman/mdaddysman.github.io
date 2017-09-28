@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF](https://mdaddysman.github.io/files/WebCV.pdf)
+
 Education
 ======
 * Ph.D. in Physical Chemistry, 2013

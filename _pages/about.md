@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome
-=====
+Hi! I'm a biophysics postdoc in the [Scherer group](http://schererlab-sites.uchicago.edu/) in the [Institute for Biophysical Dynamics](http://ibd.uchicago.edu) at the University of Chicago. My training is in physical chemistry and my primary research interests are in live cell light microscopy. I focus on high quality imaging to obtain the best images to answer cellular biophysical questions. I often write my own analysis code (MATLAB and R) to handle image processing, data analysis, and data visualization tasks. 
+I obtained my Ph.D. from the University of North Carolina at Chapel Hill Department of Chemistry and my B.S. in both Chemistry and Biology from Alderson Broaddus University in West Virginia. I’m originally from West Virginia and follow WVU sports and enjoy visiting those West Virginia hills when time allows. In my free time I enjoy playing board games, reading both fiction and nonfiction, outdoors and birding, I also practice my programing skills on small game projects. My current project, <i>Kaetchenspiel</i>, is on [Github](https://github.com/mdaddysman/Box-Game).   
 
-Welcome to my website.  
