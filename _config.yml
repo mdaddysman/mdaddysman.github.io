@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Matthew K. Daddysman"
   avatar           : "profile.png"
-  bio              : "Biophysicist | Live cell microscopy | Image analysis | Matlab, R, C, C++, Labview | Postdoc at the <a style='color: black;' href='http://ibd.uchicago.edu/'>Institute for Biophysical Dynamics</a>"
+  bio              : "Cellular biophysicist | Live cell microscopy | Image analysis | Matlab, R, C, C++, Labview | Postdoc at the <a style='color: black;' href='http://ibd.uchicago.edu/'>Institute for Biophysical Dynamics</a>"
   location         : "Chicago, IL"
   employer         : "University of Chicago"
   googlescholar    : "https://scholar.google.com/citations?user=rWOdLRYAAAAJ"
@@ -97,11 +97,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mdaddysman/"
+  linkedin         : "mdaddysman"
   orcid            : "http://orcid.org/0000-0002-8512-9502"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
