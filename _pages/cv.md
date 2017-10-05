@@ -13,26 +13,26 @@ redirect_from:
 a.cvlink:hover {text-decoration:underline;}
 </style>
 
-Download PDF: [Resume]({{ "/files/WebResume.pdf" | absolute_url }}),  [CV]({{ "/files/WebCV.pdf" | absolute_url }})
+Download PDF: <a class="cvlink" href='{{ "/files/WebResume.pdf" | absolute_url }}'>Resume</a>,  <a class="cvlink" href='{{ "/files/WebCV.pdf" | absolute_url }}'>CV</a>
 
-Contact: mdaddysman [at] gmail.com
+Contact: <a class="cvlink" href='mailto:mdaddysman@gmail.com'>mdaddysman [at] gmail.com</a>
 
 Education
 ======
 * Ph.D. in Physical Chemistry, 2013
   * University of North Carolina, Chapel Hill, NC
-  * Advisor: [Dr. Chris Fecko](https://science.energy.gov/bes/csgb/about/staff/dr-christopher-fecko/), Assistant Professor of Chemistry
+  * Advisor: <a class="cvlink" href='https://science.energy.gov/bes/csgb/about/staff/dr-christopher-fecko/'>Dr. Chris Fecko</a>, Assistant Professor of Chemistry
   * Dissertation: <a class="cvlink" href='https://cdr.lib.unc.edu/record/uuid:347b46a7-5e18-48a6-b177-617bcc2abe06'>Fluorescent microscopy in the nucleus: investigating protein diffusion and binding in live cells</a>
 * B.S. in Chemistry & Biology, <i>Summa cum Laude</i>, 2009
   * Alderson Broaddus University, Philippi, WV
   * Minor: International Studies
-  * Research Advisor: [Dr. Yi Charlie Chen](http://ab.edu/staff-member/yi-charlie-chen/), Professor of Biology
+  * Research Advisor: <a class="cvlink" href='http://ab.edu/staff-member/yi-charlie-chen/'>Dr. Yi Charlie Chen</a>, Professor of Biology
 
 Research Experience
 ======
 * University of Chicago, Institute for Biophysical Dynamics
   * Biophysics of diabetes investigated using live cell fluorescence microscopy, December 2013 &mdash; Present
-  * Principle Investigator: [Dr. Norbert Scherer](http://schererlab-sites.uchicago.edu/), Professor of Chemistry
+  * Principle Investigator: <a class="cvlink" href='http://schererlab-sites.uchicago.edu/'>Dr. Norbert Scherer</a>, Professor of Chemistry
   * Collaborators: Dr. Louis Philipson, Professor of Medicine; Dr. Aaron Dinner, Professor of Chemistry
   * Research Summary:  My research involves understanding the origins of diabetes at a cellular level. Previous research indicates that some cases of diabetes may be cause by abnormal insulin trafficking in pancreatic beta cells. To further understand the origins of the disease, I use live cell confocal microscopy to image the trafficking of insulin granules. I apply tracking software to obtain trajectories of the motion of granules over time. These trajectories are used to model beta cell behavior under different conditions or stresses. Additionally, I am developing new fluorescent microscope technologies to track cellular structures in 3-D. These technologies increase the axial field of view and resolution of the insulin tracking.
 
@@ -43,7 +43,7 @@ Research Experience
 
 * Alderson Broaddus University and WV-INBRE
   * Ovarian & prostate cancer suppression by VEGF inhibition with flavonoids, May 2007 &mdash; August 2007; January 2008 &mdash; August 2008
-  * Principle Investigator: [Dr. Yi Charlie Chen](http://ab.edu/staff-member/yi-charlie-chen/), Professor of Biology
+  * Principle Investigator: <a class="cvlink" href='http://ab.edu/staff-member/yi-charlie-chen/'>Dr. Yi Charlie Chen</a>, Professor of Biology
   * Research Summary:  My research studied ovarian and prostate cancer cell lines that were resistant to cisplatin, the cancer drug commonly used to treat these cancers.  Our group focused on flavonoids, a class of antioxidant phytochemicals, thought to be one of the active chemical agents responsible for the link between diets high in fruit and vegetable consumption and the reduced risk of cancer.  We looked at two possible methods for the use of flavonoids.  First, we measured the flavonoids' suppression of cancer cell proliferation and angiogenesis, the growth of new blood vessels to support the developing tumor.  Secondly, we looked at the interaction of flavonoids with cisplatin to enhance the effectiveness of cisplatin in inducing apoptosis in cell lines mostly resistant to cisplatin. We found that a particular flavonoid, kaempferol, limited angiogenesis in ovarian cancer cells and enhanced cisplatin's effectiveness in producing apoptosis.
 
 
@@ -82,7 +82,7 @@ Teaching
 Honors, Awards, and Activites
 ======
 * University of Chicago
-  * [Yen Postdoctoral Fellowship](http://ibd.uchicago.edu/education.shtml), 2014
+  * <a class="cvlink" href='http://ibd.uchicago.edu/education.shtml'>Yen Postdoctoral Fellowship</a>, 2014
 * University of North Carolina
   * UNC Chemistry Albert R. Ledoux Teaching Award, 2012
 * Alderson Broaddus University
@@ -91,17 +91,17 @@ Honors, Awards, and Activites
   * Outstanding Senior Male on Campus Resident, 2009
   * Member of Silver Key – Academic Honor Society, 2008
   * Outstanding Junior Chemistry Major, 2008
-    * Award presented by the [Northern West Virginia Section of the American Chemical Society](http://nwv.sites.acs.org/)
+    * Award presented by the <a class="cvlink" href='http://nwv.sites.acs.org/'>Northern West Virginia Section of the American Chemical Society</a>
   * Appalachian College Association STEM/NSF Scholarship, 2008 &mdash; 2009
   * Honor Program, 2005 – 2009
   * Dean’s List – 8 semesters, 2005 – 2009
 * International Study at Alderson Broaddus
   * Belize: Rain Forest and Coral Reef Ecology &mdash; 3 weeks, 2009
-  * [A Semester in Europe](http://ab.edu/academics/international-studies/): European History and Culture
+  * <a class="cvlink" href='http://ab.edu/academics/international-studies/'>A Semester in Europe</a>: European History and Culture
     * Salzburg, Austria with travel to London, Paris, Rome, Florence, Prague, Amsterdam, Athens, and more.
     * Fall 2007, 3 months
 * Alderson Broaddus Student Government
   * Student Government President, 2008 &mdash; 2009
   * Student Government Senator, 2006 &mdash; 2008
 * Valedictorian Philip Barbour High School Class of 2005 &mdash; Philippi, WV
-* [Philip Barbour High School Band](http://www.philipbarbourband.org) &mdash; Volunteer Instructor, 2005 – 2017
+* <a class="cvlink" href='http://www.philipbarbourband.org'>Philip Barbour High School Band</a> &mdash; Volunteer Instructor, 2005 – 2017
