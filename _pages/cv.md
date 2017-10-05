@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+a.cvlink:hover {text-decoration:underline;}
+</style>
+
 Download PDF: [Resume]({{ "/files/WebResume.pdf" | absolute_url }}),  [CV]({{ "/files/WebCV.pdf" | absolute_url }})
 
 Contact: mdaddysman [at] gmail.com
@@ -18,7 +22,7 @@ Education
 * Ph.D. in Physical Chemistry, 2013
   * University of North Carolina, Chapel Hill, NC
   * Advisor: [Dr. Chris Fecko](https://science.energy.gov/bes/csgb/about/staff/dr-christopher-fecko/), Assistant Professor of Chemistry
-  * Dissertation: <a style='text-decoration: underline;' href='https://cdr.lib.unc.edu/record/uuid:347b46a7-5e18-48a6-b177-617bcc2abe06'>Fluorescent microscopy in the nucleus: investigating protein diffusion and binding in live cells</a>
+  * Dissertation: <a class="cvlink" href='https://cdr.lib.unc.edu/record/uuid:347b46a7-5e18-48a6-b177-617bcc2abe06'>Fluorescent microscopy in the nucleus: investigating protein diffusion and binding in live cells</a>
 * B.S. in Chemistry & Biology, <i>Summa cum Laude</i>, 2009
   * Alderson Broaddus University, Philippi, WV
   * Minor: International Studies
