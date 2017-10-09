@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About"
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I'm a biophysics postdoc in the [Scherer group](http://schererlab-sites.uchicago.edu/) in the [Institute for Biophysical Dynamics](http://ibd.uchicago.edu) at the University of Chicago. My training is in physical chemistry and my primary research interests are in live cell light microscopy and cellular biophysics. I focus on designing microscopy experiments and analysis to obtain answers to cellular biophysical questions. I spend my time writing my own analysis code (MATLAB and R) to handle image processing, data analysis, and data visualization tasks and building and tweaking microscopy setups to obtain the desired images. I've worked with widefield epifluorescence, laser-scanning and spinning disk confocal, and two-photon microscopies. I have experience with home-built laser-scanning two-photon and confocal instruments that were operated with custom software.      
+Hi! I'm a biophysics postdoc in the [Scherer group](http://schererlab-sites.uchicago.edu/) in the [Institute for Biophysical Dynamics](http://ibd.uchicago.edu) at the University of Chicago. My training is in physical chemistry and my primary research interests are in live cell light microscopy and cellular biophysics. I focus on designing microscopy experiments and analysis to obtain answers to cellular biophysical questions. I spend my time writing my own analysis code (Matlab and R) to handle image processing, data analysis, and data visualization tasks and building and tweaking microscopy setups to obtain the desired images. I've worked with widefield epifluorescence, laser-scanning and spinning disk confocal, and two-photon microscopies. I have experience with home-built laser-scanning two-photon and confocal instruments that were operated with custom software.      
 
 Scientifically, I'm interested in transport inside living cells. As a graduate student, I studied diffusion and binding of DNA repair and RNA polymerase enzymes inside the [polytene nuclei](https://en.wikipedia.org/wiki/Polytene_chromosome) of *Drosophila melanogaster* larva. As a postdoc, I've studied [insulin vesicle transport dynamics](http://schererlab-sites.uchicago.edu/page/cellular-biophysics) inside cultured [$\beta$-cells](https://en.wikipedia.org/wiki/Beta_cell).  
 
