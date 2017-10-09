@@ -78,8 +78,8 @@ The other issue was the trajectory length had to be longer than 100 steps. Altho
 
 ```matlab
 temp = D(m).*wfbm(H(m),maxlength); %points of less than 100 give an error. Just subsample.
-    points(s:s+lengths(m)-1,1) = temp(1:lengths(m));
-    temp = D(m).*wfbm(H(m),maxlength);
+points(s:s+lengths(m)-1,1) = temp(1:lengths(m));
+temp = D(m).*wfbm(H(m),maxlength);
 points(s:s+lengths(m)-1,2) = temp(1:lengths(m));
 ```
-Finally, the frame number and and trajectory number are loaded into the matrix and the data is saved. The entire script is enclosed in `tic`-`toc` commands to time the script. It takes around 20-30 seconds to generate a data set on my 2014 iMac. The extra sampling is not an issue. 
+Finally, the frame number and and trajectory number are loaded into the matrix and the data is saved. The entire script is enclosed in `tic`-`toc` commands to time the script. It takes around 20-30 seconds to generate a data set on my 2014 iMac. The extra sampling is not an issue.
