@@ -1,5 +1,5 @@
 ---
-title: 'Simulating Anomalous Diffusion'
+title: 'Simulating Anomalous Diffusion using Matlab'
 date: 2017-10-09
 permalink: /posts/2017/10/anomalous-diffusion-simulation/
 tags:
@@ -8,12 +8,9 @@ tags:
   - Simulation
   - Data Visualization
 ---
-
-## Simulating Anomalous Diffusion using Matlab
-
-See the full code [here](https://gist.github.com/mdaddysman/63c223c42eb73a086b0b0ef563bf7143)   
-
 ### Introduction
+
+See the full code [here](https://gist.github.com/mdaddysman/63c223c42eb73a086b0b0ef563bf7143)    
 
 Welcome to my first blog post! I plan on using this blog to document issues encountered during the course of my research and code snippets used to solve them. In this post, I will describe code I used to create a data set that simulated anomalous diffusion using Matlab functions. The Matlab function is [*wfbm*](https://www.mathworks.com/help/wavelet/ref/wfbm.html) which uses Fractional Brownian Motion theory to simulate anomalous diffusion. However, I found that function had a few quirks that I had to work through to generate a data set.   
 
@@ -83,3 +80,5 @@ temp = D(m).*wfbm(H(m),maxlength);
 points(s:s+lengths(m)-1,2) = temp(1:lengths(m));
 ```
 Finally, the frame number and and trajectory number are loaded into the matrix and the data is saved. The entire script is enclosed in `tic`-`toc` commands to time the script. It takes around 20-30 seconds to generate a data set on my 2014 iMac. The extra sampling is not an issue.
+
+The code on [Github Gist](https://gist.github.com/mdaddysman/63c223c42eb73a086b0b0ef563bf7143)
