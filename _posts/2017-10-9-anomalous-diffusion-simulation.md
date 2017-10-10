@@ -2,12 +2,14 @@
 title: 'Simulating Anomalous Diffusion using Matlab'
 date: 2017-10-09
 permalink: /posts/2017/10/anomalous-diffusion-simulation/
+excerpt: 'Matlab provides a function for simulating anomalous diffusion from fractional Brownian motion theory. I show how I used this function to generate a simulated anomalous diffusion data set with random lengths, diffusion constants, and anomalous diffusion exponents.'
 tags:
   - Matlab
   - Diffusion
   - Simulation
   - Data Visualization
 ---
+
 ### Introduction
 
 See the full code [here](https://gist.github.com/mdaddysman/63c223c42eb73a086b0b0ef563bf7143)    
