@@ -5,7 +5,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-This is a summary of my current academic and "for fun" open-source programming projects. Documentation for the projects are in the README file in the Github repository. The source can be found on my [Github Profile](https://github.com/mdaddysman) or the links in the tables below.
+This is a summary of my current academic and "for fun" open-source programming projects. Documentation for the projects can be found in the README file in the Github repository. The projects are posted on my [Github Profile](https://github.com/mdaddysman) or you can follow the links in the tables below.
 
 ### Academic
 
