@@ -17,6 +17,18 @@ Download PDF: <a class="cvlink" href='{{ "/files/WebResume.pdf" | absolute_url }
 
 Contact: <a class="cvlink" href='mailto:mdaddysman@gmail.com'>mdaddysman [at] gmail.com</a>
 
+Work Experience
+======
+* Agilent Technologies, Nov 2017 - Present
+  * Field Applications Scientist
+  * Chicago, IL
+* University of Chicago, Jan 2014 - Nov 2017
+  * Postdoctoral Scholar
+  * Chicago, IL
+* University of North Carolina, Aug 2009 - Dec 2013
+  * Graduate Teaching & Research Assistant
+  * Chapel Hill, NC 
+
 Education
 ======
 * Ph.D. in Physical Chemistry, 2013
