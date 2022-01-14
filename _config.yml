@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matthew K. Daddysman, Ph.D."
 title_separator          : "-"
 name                     : &name "Matthew K. Daddysman, Ph.D."
-description              : &description "Biophysicist | Postdoc at University of Chicago"
+description              : &description "Biophysicist | Field Applications Scientist at Agilent Technologies"
 url                      : https://mdaddysman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mdaddysman.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Matthew K. Daddysman"
   avatar           : "profile.png"
-  bio              : "Cellular biophysicist | Live cell microscopy | Image analysis | Matlab, R, C, C++, Labview | Postdoc at the <a style='color: black;' href='http://ibd.uchicago.edu/'>Institute for Biophysical Dynamics</a>"
+  bio              : "Cellular biophysicist | Live cell microscopy | Image analysis | Matlab, R, C, C++, Labview | Field Applications Scientist at Agilent Technologies"
   location         : "Chicago, IL"
-  employer         : "University of Chicago"
+  employer         : "Agilent Technologies"
   googlescholar    : "https://scholar.google.com/citations?user=rWOdLRYAAAAJ"
   email            :
   uri              :
