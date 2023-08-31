@@ -19,7 +19,10 @@ Contact: <a class="cvlink" href='mailto:mdaddysman@gmail.com'>mdaddysman [at] gm
 
 Work Experience
 ======
-* Agilent Technologies, Nov 2017 - Present
+* Nikon Instruments, Feb 2023 - Present
+  * Field Applications Scientist
+  * Chicago, IL
+* Agilent Technologies, Nov 2017 - Feb 2023
   * Field Applications Scientist
   * Chicago, IL
 * University of Chicago, Jan 2014 - Nov 2017
