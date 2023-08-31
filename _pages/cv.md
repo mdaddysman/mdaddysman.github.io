@@ -13,7 +13,7 @@ redirect_from:
 a.cvlink:hover {text-decoration:underline;}
 </style>
 
-Download PDF: <a class="cvlink" href='{{ "/files/WebResume.pdf" | absolute_url }}'>Resume</a>,  <a class="cvlink" href='{{ "/files/WebCV.pdf" | absolute_url }}'>CV</a>
+Download PDF: <a class="cvlink" href='{{ "/files/WebResume.pdf" | absolute_url }}'>Resume</a>
 
 Contact: <a class="cvlink" href='mailto:mdaddysman@gmail.com'>mdaddysman [at] gmail.com</a>
 
