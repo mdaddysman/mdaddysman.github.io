@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Advanced Biosystems Specialist for Nikon Instruments. My role is to provide consultative sales for Nikon's confocal microscopy systems for bioscience research in the upper Midwest of the US.
+Hi! I am an Advanced Biosystems Specialist for Nikon Instruments. My role is to provide consultative sales for Nikon's confocal microscopy systems for bioscience research in the upper Midwest of the US.
 
 My formal training is in physical chemistry and my primary research interests are in live cell light microscopy, data analysis & visualization, and cellular biophysics. I focus on designing microscopy experiments and analysis to obtain answers to cellular biophysical questions. I spend my time writing my own analysis code (Matlab and R) to handle image processing, data analysis, and data visualization tasks and building and tweaking microscopy setups to obtain the desired images. I've worked with widefield epifluorescence, laser-scanning and spinning disk confocal, and two-photon microscopies. I have experience with home-built laser-scanning two-photon and confocal instruments that were operated with custom software.  
 
