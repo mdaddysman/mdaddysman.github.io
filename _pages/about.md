@@ -14,7 +14,7 @@ My formal training is in physical chemistry and my primary research interests ar
 
 I am also interested in data science and machine learning. I've recently completed the IBM Data Science certification to expand my skill set in Python, machine learning, and data visualization. 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6769c541-3e7e-4890-8bf0-70014d1048b0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<center><div data-iframe-width="325" data-iframe-height="270" data-share-badge-id="6769c541-3e7e-4890-8bf0-70014d1048b0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></center>
 
 Previously, I was a Field Applications Scientist for the BioTek - after Agilent's acquistion of BioTek the Agilent BioTek - microscopy product line of widefield and confocal automated imagers. Before joining industry, I was a biophysics postdoc at the [University of Chicago](https://ibd.uchicago.edu/) and a graduate student at the [University of North Carolina](http://chem.unc.edu/).       
 
