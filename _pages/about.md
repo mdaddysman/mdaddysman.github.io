@@ -12,6 +12,10 @@ Hi! I am an Advanced Biosystems Specialist for Nikon Instruments. My role is to 
 
 My formal training is in physical chemistry and my primary research interests are in live cell light microscopy, data analysis & visualization, and cellular biophysics. I focus on designing microscopy experiments and analysis to obtain answers to cellular biophysical questions. I spend my time writing my own analysis code (Matlab and R) to handle image processing, data analysis, and data visualization tasks and building and tweaking microscopy setups to obtain the desired images. I've worked with widefield epifluorescence, laser-scanning and spinning disk confocal, and two-photon microscopies. I have experience with home-built laser-scanning two-photon and confocal instruments that were operated with custom software.  
 
+I am also interested in data science and machine learning. I've recently completed the IBM Data Science certification to expand my skill set in Python, machine learning, and data visualization. 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6769c541-3e7e-4890-8bf0-70014d1048b0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 Previously, I was a Field Applications Scientist for the BioTek - after Agilent's acquistion of BioTek the Agilent BioTek - microscopy product line of widefield and confocal automated imagers. Before joining industry, I was a biophysics postdoc at the [University of Chicago](https://ibd.uchicago.edu/) and a graduate student at the [University of North Carolina](http://chem.unc.edu/).       
 
 Scientifically, I'm interested in transport inside living cells. As a graduate student, I studied diffusion and binding of DNA repair and RNA polymerase enzymes inside the [polytene nuclei](https://en.wikipedia.org/wiki/Polytene_chromosome) of *Drosophila melanogaster* larva. As a postdoc, I've studied [insulin vesicle transport dynamics](http://schererlab-sites.uchicago.edu/page/cellular-biophysics) inside cultured [$\beta$-cells](https://en.wikipedia.org/wiki/Beta_cell).  
