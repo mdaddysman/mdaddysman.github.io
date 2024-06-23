@@ -19,8 +19,8 @@ Contact: <a class="cvlink" href='mailto:mdaddysman@gmail.com'>mdaddysman [at] gm
 
 Work Experience
 ======
-* Nikon Instruments, Feb 2023 - Present
-  * Field Applications Scientist
+* Nikon Instruments, Feb 2023 - June 2024
+  * Advanced Biosystems Specialist
   * Chicago, IL
 * Agilent Technologies, Nov 2017 - Feb 2023
   * Field Applications Scientist

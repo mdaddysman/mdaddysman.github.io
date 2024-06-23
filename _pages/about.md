@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an Advanced Biosystems Specialist for Nikon Instruments. My role is to provide consultative sales for Nikon's confocal microscopy systems for bioscience research in the upper Midwest of the US.
+Hi! I am a scientist with a passion for data analysis and visualization with formal training in biophysics and light microsocpy.
 
 My formal training is in physical chemistry and my primary research interests are in live cell light microscopy, data analysis & visualization, and cellular biophysics. I focus on designing microscopy experiments and analysis to obtain answers to cellular biophysical questions. I spend my time writing my own analysis code (Matlab and R) to handle image processing, data analysis, and data visualization tasks and building and tweaking microscopy setups to obtain the desired images. I've worked with widefield epifluorescence, laser-scanning and spinning disk confocal, and two-photon microscopies. I have experience with home-built laser-scanning two-photon and confocal instruments that were operated with custom software.  
 
@@ -16,7 +16,7 @@ I am also interested in data science and machine learning. I've recently complet
 
 <center><div data-iframe-width="325" data-iframe-height="270" data-share-badge-id="6769c541-3e7e-4890-8bf0-70014d1048b0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></center>
 
-Previously, I was a Field Applications Scientist for the BioTek - after Agilent's acquistion of BioTek the Agilent BioTek - microscopy product line of widefield and confocal automated imagers. Before joining industry, I was a biophysics postdoc at the [University of Chicago](https://ibd.uchicago.edu/) and a graduate student at the [University of North Carolina](http://chem.unc.edu/).       
+Previously, I was an Advanced Biosystems Specialist for Nikon Instruments for one year. My role was to provide consultative sales for Nikon's confocal microscopy systems for bioscience research in the upper Midwest of the US. Before that I was a Field Applications Scientist for the BioTek - after Agilent's acquistion of BioTek the Agilent BioTek - microscopy product line of widefield and confocal automated imagers for 5 years. Before joining industry, I was a biophysics postdoc at the [University of Chicago](https://ibd.uchicago.edu/) and a graduate student at the [University of North Carolina](http://chem.unc.edu/).       
 
 Scientifically, I'm interested in transport inside living cells. As a graduate student, I studied diffusion and binding of DNA repair and RNA polymerase enzymes inside the [polytene nuclei](https://en.wikipedia.org/wiki/Polytene_chromosome) of *Drosophila melanogaster* larva. As a postdoc, I've studied [insulin vesicle transport dynamics](http://schererlab-sites.uchicago.edu/page/cellular-biophysics) inside cultured [$\beta$-cells](https://en.wikipedia.org/wiki/Beta_cell).  
 
