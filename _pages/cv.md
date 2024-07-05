@@ -41,7 +41,7 @@ Education
 * B.S. in Chemistry & Biology, <i>Summa cum Laude</i>, 2009
   * Alderson Broaddus University, Philippi, WV
   * Minor: International Studies
-  * Research Advisor: <a class="cvlink" href='http://ab.edu/staff-member/yi-charlie-chen/'>Dr. Yi Charlie Chen</a>, Professor of Biology
+  * Research Advisor: Dr. Yi Charlie Chen, Professor of Biology
 
 Research Experience
 ======
@@ -58,7 +58,7 @@ Research Experience
 
 * Alderson Broaddus University and WV-INBRE
   * Ovarian & prostate cancer suppression by VEGF inhibition with flavonoids, May 2007 &mdash; August 2007; January 2008 &mdash; August 2008
-  * Principle Investigator: <a class="cvlink" href='http://ab.edu/staff-member/yi-charlie-chen/'>Dr. Yi Charlie Chen</a>, Professor of Biology
+  * Principle Investigator: Dr. Yi Charlie Chen, Professor of Biology
   * Research Summary:  My research studied ovarian and prostate cancer cell lines that were resistant to cisplatin, the cancer drug commonly used to treat these cancers.  Our group focused on flavonoids, a class of antioxidant phytochemicals, thought to be one of the active chemical agents responsible for the link between diets high in fruit and vegetable consumption and the reduced risk of cancer.  We looked at two possible methods for the use of flavonoids.  First, we measured the flavonoids' suppression of cancer cell proliferation and angiogenesis, the growth of new blood vessels to support the developing tumor.  Secondly, we looked at the interaction of flavonoids with cisplatin to enhance the effectiveness of cisplatin in inducing apoptosis in cell lines mostly resistant to cisplatin. We found that a particular flavonoid, kaempferol, limited angiogenesis in ovarian cancer cells and enhanced cisplatin's effectiveness in producing apoptosis.
 
 
@@ -112,7 +112,7 @@ Honors, Awards, and Activites
   * Dean’s List – 8 semesters, 2005 – 2009
 * International Study at Alderson Broaddus
   * Belize: Rain Forest and Coral Reef Ecology &mdash; 3 weeks, 2009
-  * <a class="cvlink" href='http://ab.edu/academics/international-studies/'>A Semester in Europe</a>: European History and Culture
+  * <a class="cvlink" href='https://web.archive.org/web/20220804080439/http://ab.edu/academics/international-studies/'>A Semester in Europe</a>: European History and Culture
     * Salzburg, Austria with travel to London, Paris, Rome, Florence, Prague, Amsterdam, Athens, and more.
     * Fall 2007, 3 months
 * Alderson Broaddus Student Government
